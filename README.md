@@ -17,7 +17,7 @@ Tesla stock data (2010–2020)
 - Matplotlib  
 
 ## Result
-The model achieved very high accuracy (R² ≈ 0.999).  
+The model achieved very high accuracy (R² ≈ 0.997).  
 However, it contains look-ahead bias because same-day features were used.
 
 ## Author
