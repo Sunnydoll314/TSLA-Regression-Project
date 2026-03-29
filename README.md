@@ -1,5 +1,3 @@
-# TSLA-Regression-Project
-Stock price prediction using regression models
 # TSLA Regression Project
 
 This project predicts Tesla (TSLA) stock closing prices using regression models.
